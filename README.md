@@ -32,4 +32,4 @@ jupyter notebook e91_key_distribution.ipynb
 - Real systems use entangled photons over noisy channels, so they tolerate some error.
 - This is a simplified simulation for learning.
 
-Made by Sultana with [Qiskit](https://www.ibm.com/quantum/qiskit).
+Made with [Qiskit](https://www.ibm.com/quantum/qiskit).
